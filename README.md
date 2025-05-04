@@ -22,9 +22,9 @@ python main.py
 ### Player Overview Statistics
 First, you'll see comprehensive statistics for all players you've selected:
 
-<img src="https://github.com/user-attachments/assets/69872ea4-777b-412c-bf7a-dfff2b35c547" width="700" alt="Player overview statistics">
+<img src="https://github.com/user-attachments/assets/a90bae12-c655-4360-a1a1-10a5fda8abe6" width="700" alt="Player overview statistics">
 
 ### Map-Specific Analysis
 You can choose to view detailed map performance for individual players or see map statistics for all provided players:
 
-<img src="https://github.com/user-attachments/assets/9db1d189-a803-4864-8f61-dff73298a652" width="700" alt="Map-specific player analysis">
+<img src="https://github.com/user-attachments/assets/e553f883-81a1-434e-bcf0-38fbd507fc58" width="700" alt="Map-specific player analysis">
